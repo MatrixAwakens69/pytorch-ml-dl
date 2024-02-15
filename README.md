@@ -1,1 +1,1 @@
-# pytorch-ml-dl
+# PyTorch for Deep Learning
